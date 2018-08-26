@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Console",
+        "repositoryURL": "https://github.com/dmcyk/Console.git",
+        "state": {
+          "branch": null,
+          "revision": "c5178b0bd5a5001e7c2985c3ee713f6eabb37ed1",
+          "version": "0.7.1"
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "faeb158ce76d355f3f9242fdd0258a9face62f37",
+          "version": "4.2.0"
+        }
+      },
+      {
+        "package": "Atomics",
+        "repositoryURL": "https://github.com/glessard/swift-atomics.git",
+        "state": {
+          "branch": null,
+          "revision": "e6d9325b3dfff6df74ee3e3f2f3e95c8e11abd58",
+          "version": "4.1.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
